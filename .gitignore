@@ -1,4 +1,4 @@
-TesseractReload/TesseractReload/bin/*
-TesseractReload/TesseractReload/obj/*
-TesseractReload/.vs
-TesseractReload/packages
+TesseractReload/bin/*
+TesseractReload/obj/*
+.vs/*
+packages/*
